@@ -1,0 +1,1 @@
+This is the "Modern React with Redux" course on Udemy. 
